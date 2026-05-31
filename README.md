@@ -7,7 +7,7 @@
 ## 👤 Автор
 
 - **ПІБ**: Пильник Софія Анатоліївна
-- **Група**: ФЕІ-4__ 
+- **Група**: ФЕІ-42 
 - **Керівник**: доц. Стахіра Роман Йосипович
 - **Дата виконання**: 31.05.2026
 
@@ -104,11 +104,8 @@ simclr_transform = T.Compose([
 ---
 
 ## 📷 Приклади / скриншоти
-![t-SNE візуалізація](screenshots/t_sne_clusters.png)
 * `t_sne_clusters.png` — t-SNE візуалізація векторних представлень (до та після навчання)
-![Матриця плутанини](screenshots/confusion_matrix.png)
 * `confusion_matrix.png` — Матриця плутанини (Confusion Matrix) PI-моделі
-![Графік збіжності](screenshots/loss_convergence.png)
 * `loss_convergence.png` — Графік збіжності функції втрат NT-Xent
 
 > *(Зображення збережені у папці `/screenshots/` репозиторію)*
